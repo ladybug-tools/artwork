@@ -1,5 +1,9 @@
 .em,.em-svg{height:1.5em;width:1.5em;background-position:center;background-repeat:no-repeat;background-size:contain;display:inline-block;vertical-align:middle}
 .em-ladybug{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/ladybug.png")}
-.em-ladybug.em-svg{background:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/ladybug.png"); background-image:url("https://twemoji.maxcdn.com/2/svg/1f44d.svg"),none}
+.em-honeybee{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/honeybee.png")}
 .em-butterfly{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/butterfly.png")}
-.em-butterfly.em-svg{background:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/butterfly.png");background-image:url("https://twemoji.maxcdn.com/2/svg/1f44e.svg"),none}
+.em-dragonfly{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/dragonfly.png")}
+.em-spider{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/spider.png")}
+.em-sunpath{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/icons/ladybug/png/sunpath.png")}
+.em-windrose{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/icons/ladybug/png/windrose.png")}
+.em-psychrometric{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/icons/ladybug/png/psychrometric.png")}
