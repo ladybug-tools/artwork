@@ -1,5 +1,5 @@
 .em,.em-svg{height:1.5em;width:1.5em;background-position:center;background-repeat:no-repeat;background-size:contain;display:inline-block;vertical-align:middle}
 .em-ladybug{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/ladybug.png")}
-.em-ladybug.em-svg{background:url("https://twemoji.maxcdn.com/2/72x72/1f44d.png"); background-image:url("https://twemoji.maxcdn.com/2/svg/1f44d.svg"),none}
-.em--1,.em-thumbsdown{background-image:url("https://twemoji.maxcdn.com/2/72x72/1f44e.png")}
-.em--1.em-svg,.em-thumbsdown.em-svg{background:url("https://twemoji.maxcdn.com/2/72x72/1f44e.png");background-image:url("https://twemoji.maxcdn.com/2/svg/1f44e.svg"),none}
+.em-ladybug.em-svg{background:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/ladybug.png"); background-image:url("https://twemoji.maxcdn.com/2/svg/1f44d.svg"),none}
+.em-butterfly{background-image:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/butterfly.png")}
+.em-butterfly.em-svg{background:url("https://github.com/ladybug-tools/artwork/raw/master/logos/emojis/butterfly.png");background-image:url("https://twemoji.maxcdn.com/2/svg/1f44e.svg"),none}
