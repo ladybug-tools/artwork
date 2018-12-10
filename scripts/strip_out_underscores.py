@@ -1,12 +1,16 @@
+"""This script strips out underscores from all component icon filen ames."""
+
 import os
 
-folder = os.path.dirname(os.path.realpath(__file__))
+current_folder = os.path.dirname(os.path.realpath(__file__))
+folder, scripts = os.path.split(current_folder)
+icons_folder = 'icons_components'
 plugins = ['ladybug', 'honeybee', 'dragonfly']
 subfolders = ['png', 'emoji']
 
 for plugin in plugins:
     for subdir in subfolders:
-        directory = os.path.join(folder, plugin, subdir)
+        directory = os.path.join(folder, icons_folder, plugin, subdir)
         if os.path.isdir(directory):
             for img_file in os.listdir(directory):
                 new_img_file = img_file.replace('_', '')
