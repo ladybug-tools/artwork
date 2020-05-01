@@ -29,3 +29,5 @@ for plugin in plugins:
                 original_file = os.path.join(directory, img_file)
                 new_file = os.path.join(directory, new_img_file)
                 os.rename(original_file, new_file)
+
+print('Done stripping out underscores.')
