@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-4,-506.25)">
+        <g id="sunpath" transform="matrix(4.16667,0,0,4.16667,4,506.25)">
+            <rect x="0" y="0" width="108" height="108" style="fill:none;"/>
+            <g id="Layer-1" serif:id="Layer 1">
+                <g transform="matrix(0,-1,-1,0,54.0018,14.1295)">
+                    <path d="M-39.83,-39.825C-61.828,-39.825 -79.656,-21.994 -79.656,0.001C-79.656,21.999 -61.828,39.83 -39.83,39.83C-17.832,39.83 0.001,21.999 0.001,0.001C0.001,-21.994 -17.832,-39.825 -39.83,-39.825" style="fill:rgb(255,242,0);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,54.0018,14.1295)">
+                    <ellipse cx="-39.827" cy="0.002" rx="39.829" ry="39.827" style="fill:none;stroke:rgb(35,31,32);stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,100.062,54)">
+                    <path d="M-46.061,46.061L46.061,46.061" style="fill:none;fill-rule:nonzero;stroke:rgb(35,31,32);stroke-width:1px;stroke-linecap:square;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,8.2437,53.9595)">
+                    <path d="M0,0L91.513,0" style="fill:none;fill-rule:nonzero;stroke:rgb(35,31,32);stroke-width:1px;stroke-linecap:square;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,93.774,78.1305)">
+                    <path d="M0,-22.596C0,-10.117 -17.82,0 -39.801,0C-61.783,0 -79.602,-10.117 -79.602,-22.596" style="fill:none;fill-rule:nonzero;stroke:rgb(237,28,36);stroke-width:2px;stroke-linejoin:miter;stroke-dasharray:5,3;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,69.3347,67.2516)">
+                    <path d="M-8.952,-8.953C-13.897,-8.953 -17.905,-4.944 -17.905,-0.002C-17.905,4.945 -13.897,8.952 -8.952,8.952C-4.009,8.952 0,4.945 0,-0.002C0,-4.944 -4.009,-8.953 -8.952,-8.953" style="fill:rgb(250,163,57);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,69.3347,67.2516)">
+                    <circle cx="-8.952" cy="-0.001" r="8.953" style="fill:none;stroke:rgb(35,31,32);stroke-width:1px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
