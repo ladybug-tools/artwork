@@ -90,6 +90,6 @@
         </g>
     </g>
     <defs>
-        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(51.355,0,0,51.356,-51.3555,0.0005)"><stop offset="0" style="stop-color:rgb(122,193,66);stop-opacity:1"/><stop offset="0.16" style="stop-color:rgb(122,193,66);stop-opacity:1"/><stop offset="0.34" style="stop-color:rgb(248,237,47);stop-opacity:1"/><stop offset="0.51" style="stop-color:rgb(255,0,0);stop-opacity:1"/><stop offset="0.78" style="stop-color:rgb(248,237,47);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(248,237,47);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(51.355,0,0,51.356,-51.3555,0.0005)"><stop offset="0" style="stop-color:rgb(122,193,66);stop-opacity:1"/><stop offset="0.22" style="stop-color:rgb(122,193,66);stop-opacity:1"/><stop offset="0.51" style="stop-color:rgb(248,237,47);stop-opacity:1"/><stop offset="0.8" style="stop-color:rgb(237,28,36);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(248,237,47);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>
